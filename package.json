@@ -1,0 +1,29 @@
+{
+  "name": "jsaqa_3_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.12.3",
+    "playwright": "^1.22.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValiullinAd/jsaqa_7-03_02_playwright.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "bugs": {
+    "url": "https://github.com/ValiullinAd/jsaqa_7-03_02_playwright/issues"
+  },
+  "homepage": "https://github.com/ValiullinAd/jsaqa_7-03_02_playwright#readme",
+  "description": ""
+}
